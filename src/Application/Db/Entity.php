@@ -12,7 +12,7 @@ class Entity
 	protected $table;
 
 	/**
-	 * @var String
+	 * @var Pdo
 	 */
 	protected $conn;
 
